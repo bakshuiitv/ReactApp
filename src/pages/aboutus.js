@@ -5,9 +5,9 @@ const suppliers = ['ANB Pack', 'XYZ Supplier']; // sample suppliers
 const initialProducts = [
   {
     id: 1,
-    name: 'Lllll Rrrrr',
+    name: 'Lllll Bakshu name',
     quantity: '',
-    currentQty: '',
+    currentQty: '', 
     unit: 'Units (25 kg)',
     lotNo: '',
     expDate: '',
