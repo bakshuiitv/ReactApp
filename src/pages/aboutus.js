@@ -7,7 +7,7 @@ const initialProducts = [
     id: 1,
     name: 'Lllll Safiya',
     quantity: '',
-    currentQty: '',
+    currentQty: '', 
     unit: 'Units (25 kg)',
     lotNo: '',
     expDate: '',
