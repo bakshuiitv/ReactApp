@@ -14,7 +14,7 @@ const initialProducts = [
   },
   {
     id: 2,
-    name: 'Anbbb Bbbb',
+    name: 'Shaik Bakshu',
     quantity: '',
     currentQty: '0',
     unit: 'Units (50 kg)',

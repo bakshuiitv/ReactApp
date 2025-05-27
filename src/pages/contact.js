@@ -4,7 +4,7 @@ import PageLoader from './CustomLoader';
 
 const products = [
     { id: 1, name: 'Mechanical Engineering Book', price: 50 },
-    { id: 2, name: 'Physics for Engineers', price: 40 },
+    { id: 2, name: 'Physics', price: 40 },
     { id: 3, name: 'Thermodynamics Guide', price: 60 },
     { id: 4, name: 'Thermodynamics Guide-1', price: 70 },
     { id: 5, name: 'Thermodynamics Guide-2', price: 80 },

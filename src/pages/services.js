@@ -77,7 +77,7 @@ const Services = () => {
               className="course-item"
               style={{
                 border: '1px solid #ddd',
-                padding: '15px',
+                padding: '16px',
                 borderRadius: '10px',
               }}
             >
